@@ -1,13 +1,6 @@
 # Govern
 
-<style type="text/css">
-    img {
-        width: 175px;
-        
-    }
-</style>
-
-![govern logo](./assets/logo.png)
+<img src="./assets/logo.png" alt="Govenr Logo" width="175"/>
 
 > A CLI tool to validate the commit message based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
